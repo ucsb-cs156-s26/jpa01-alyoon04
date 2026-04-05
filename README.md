@@ -10,7 +10,7 @@
   a link to your running app on Dokku, e.g.
   https://jpa01-cgaucho.dokku-14.cs.ucsb.edu
 
-Deployed at: https://jpa01-replace-me.dokku-xx.cs.ucsb.edu
+Deployed at: http://jpa01-alyoon04.dokku-10.cs.ucsb.edu/
 
 
 # About this repo
